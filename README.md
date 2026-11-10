@@ -1,6 +1,6 @@
 # Hydle Research Group Manufacturing Instructions & Processes
 
-Hydle Research Group (HRG) is dedicated to manufacturing an extent of our parts locally, using desktop machines like 3D printers to achieve this.
+Hydle Research Group (HRG) is dedicated to keeping our part database fully open. Detailed instructions are provided for each part, so you can make the parts entirely yourself.
 
 ## Guide
 
