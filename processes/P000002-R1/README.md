@@ -1,8 +1,8 @@
-# P-E1-V1: OpenPEMF PCB (version 1)
+# P000002-R1: OpenPEMF PCB 
 
-![P-E1-V1](files/images/image.png)
+![P000002-R1](files/images/image.png)
 
-P-E1-V1 is the main PCB for the OpenPEMF device. 
+P000002-R1 is the main PCB for the OpenPEMF device. 
 
 The part is designed to mount a Raspberry Pi Pico, TMC2209, and screw terminals for driving the OpenPEMF treatment coil.
 

@@ -6,10 +6,9 @@ Hydle Research Group (HRG) is dedicated to keeping our part database fully open.
 
 Parts are organized inside the `processes` folder of this repository. They are formatted like so:
 
-![Part Format](assets/part_format.png)
+![Part Format](assets/format.png)
 
-- `Category`: the part category (`E` for electrical or `M` for mechanical)
 - `Part Number`: the part number
-- `Variant`: the part variant
+- `Revision`: the part revision
 
 Each part contains a `README.md` and a `files` folder. `README.md` is a complete guide to manufacturing that specific part, and `files` contains any necessary media/manufacturing files (e.g. STL).

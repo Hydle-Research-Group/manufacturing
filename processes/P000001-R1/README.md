@@ -1,8 +1,8 @@
-# P-M1-N17: NEMA-17 mounting part for MT6701 Magnetic Encoder modules
+# P000001-R1: NEMA-17 mounting part for MT6701 Magnetic Encoder modules
 
-![P-M1-N17](files/image.png)
+![P000001-R1](files/image.png)
 
-P-M1-N17 is a mounting piece used for MT6701 Magnetic Encoder modules, designed for the standard NEMA-17 stepper motor.
+P000001-R1 is a mounting piece used for MT6701 Magnetic Encoder modules, designed for the standard NEMA-17 stepper motor.
 
 The part is designed to withstand the heat and vibrations produced by a NEMA-17, and can be made with durable filaments such as ASA or Poly-Carbonate (PC)
 
@@ -26,6 +26,6 @@ The part is designed to withstand the heat and vibrations produced by a NEMA-17,
 2. **Installing**
 
 - Press fit the MT6701 board onto the 4 holes, with the encoder facing outwards. Ensure the 5x2.54mm pin header is lined up with the slot in the rear of the part. You may have to press firmly, as the board snaps into place.
-- Mount the P-M1-N17 on a NEMA-17 by clamping it into place on the back of the motor shaft. Ensure a dipole magnet is installed on the motor shaft (usually included with a MT6701.)
+- Mount the P000001-R1 on a NEMA-17 by clamping it into place on the back of the motor shaft. Ensure a dipole magnet is installed on the motor shaft (usually included with a MT6701.)
 
-_The installation may be slightly difficult, as the P-M1-N17 clamping design holds the motor very firmly._
+_The installation may be slightly difficult, as the P000001-R1 clamping design holds the motor very firmly._
