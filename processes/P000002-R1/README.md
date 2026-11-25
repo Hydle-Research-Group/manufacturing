@@ -44,6 +44,6 @@ Solder the 1x6 Screw Terminal to **U1**.
 
 For **J2**, you have the option to solder a 1x6 Screw Terminal or 6-pin JST (XH) Female connector. 
 
-*We recommend soldering a JST, as OpenPEMF's pogo pin connector is of the JST type. If you prefer to hard wire OpenPEMF's treatment coil, feel free to solder a 1x6 Screw Terminal to J2 instead.* 
+*We recommend soldering a JST, as OpenPEMF's primary connector uses a JST. If you prefer to hard wire OpenPEMF's treatment coil, feel free to solder a 1x6 Screw Terminal to J2 instead.* 
 
 ![J2 Soldering](files/images/j2.png)
